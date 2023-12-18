@@ -22,7 +22,12 @@ Résultat :
 
 Les pages se divisent en 3 parties distinct, définition des variables, SQL, affichage. J'ai tout d'abord défini les champs du formulaire en leur donnant un type un nom et une valeur.
 J'ai ensuite mis les variables de sessions dans des variables.
-J'ai créé un appel de PS qui avait pour objectif de faire la recherche dans la PS.
+J'ai créé un appel de PS qui avait pour objectif de faire la recherche dans la PS. 
+PS utilisée : 
+
+![image](https://github.com/MathisCastell/Stage-Fonction-recherche-de-dossiers/assets/148212506/ac8e11e1-8fab-43d3-a675-dcf809997c9a)
+
+
 Enfin, j'ai affiché dans la page les champs défini dans la première partie.
 
 Résultat :
